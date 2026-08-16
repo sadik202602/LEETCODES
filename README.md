@@ -27,6 +27,7 @@ code doc for leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sadik202602/LEETCODES/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/sadik202602/LEETCODES/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sadik202602/LEETCODES/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -36,4 +37,8 @@ code doc for leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sadik202602/LEETCODES/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sadik202602/LEETCODES/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
