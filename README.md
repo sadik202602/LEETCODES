@@ -9,6 +9,7 @@ code doc for leetcode
 | [0001-two-sum](https://github.com/sadik202602/LEETCODES/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadik202602/LEETCODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sadik202602/LEETCODES/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/sadik202602/LEETCODES/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@ code doc for leetcode
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadik202602/LEETCODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sadik202602/LEETCODES/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sadik202602/LEETCODES/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
