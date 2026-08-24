@@ -54,4 +54,12 @@ code doc for leetcode
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/sadik202602/LEETCODES/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sadik202602/LEETCODES/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sadik202602/LEETCODES/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
