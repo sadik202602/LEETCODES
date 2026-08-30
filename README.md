@@ -7,6 +7,7 @@ code doc for leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sadik202602/LEETCODES/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sadik202602/LEETCODES/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadik202602/LEETCODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sadik202602/LEETCODES/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/sadik202602/LEETCODES/tree/master/0704-binary-search) |
@@ -28,6 +29,7 @@ code doc for leetcode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sadik202602/LEETCODES/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sadik202602/LEETCODES/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sadik202602/LEETCODES/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sadik202602/LEETCODES/tree/master/0242-valid-anagram) |
@@ -62,4 +64,8 @@ code doc for leetcode
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sadik202602/LEETCODES/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sadik202602/LEETCODES/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
