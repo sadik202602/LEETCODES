@@ -8,6 +8,7 @@ code doc for leetcode
 | ------- |
 | [0001-two-sum](https://github.com/sadik202602/LEETCODES/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sadik202602/LEETCODES/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/sadik202602/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadik202602/LEETCODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sadik202602/LEETCODES/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/sadik202602/LEETCODES/tree/master/0704-binary-search) |
@@ -24,6 +25,7 @@ code doc for leetcode
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sadik202602/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sadik202602/LEETCODES/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sadik202602/LEETCODES/tree/master/0242-valid-anagram) |
 ## String
@@ -45,6 +47,7 @@ code doc for leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sadik202602/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sadik202602/LEETCODES/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/sadik202602/LEETCODES/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
